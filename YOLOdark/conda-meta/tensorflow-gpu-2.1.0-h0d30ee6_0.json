@@ -1,0 +1,37 @@
+{
+  "build": "h0d30ee6_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "_tflow_select ==2.1.0 gpu",
+    "tensorflow 2.1.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dabby\\anaconda3\\pkgs\\tensorflow-gpu-2.1.0-h0d30ee6_0",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "tensorflow-gpu-2.1.0-h0d30ee6_0.conda",
+  "legacy_bz2_md5": "760da92980002562fe21af7c6270a4b2",
+  "legacy_bz2_size": 2662,
+  "link": {
+    "source": "C:\\Users\\Dabby\\anaconda3\\pkgs\\tensorflow-gpu-2.1.0-h0d30ee6_0",
+    "type": 1
+  },
+  "md5": "ed826898e4d0a64adbf9f6dbf19a561d",
+  "name": "tensorflow-gpu",
+  "package_tarball_full_path": "C:\\Users\\Dabby\\anaconda3\\pkgs\\tensorflow-gpu-2.1.0-h0d30ee6_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "tensorflow-gpu",
+  "sha256": "4069a04391bbe545182cf0c815422c6ef0db671a9a79d5e343216a961bccaecf",
+  "size": 3078,
+  "subdir": "win-64",
+  "timestamp": 1582125074633,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tensorflow-gpu-2.1.0-h0d30ee6_0.conda",
+  "version": "2.1.0"
+}

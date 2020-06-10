@@ -1,0 +1,239 @@
+{
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dabby\\anaconda3\\pkgs\\astor-0.8.0-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/astor-0.8.0-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/astor-0.8.0-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/astor-0.8.0-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/astor-0.8.0-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/astor-0.8.0-py3.6.egg-info/zip-safe",
+    "Lib/site-packages/astor/__init__.py",
+    "Lib/site-packages/astor/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/astor/__pycache__/code_gen.cpython-36.pyc",
+    "Lib/site-packages/astor/__pycache__/codegen.cpython-36.pyc",
+    "Lib/site-packages/astor/__pycache__/file_util.cpython-36.pyc",
+    "Lib/site-packages/astor/__pycache__/node_util.cpython-36.pyc",
+    "Lib/site-packages/astor/__pycache__/op_util.cpython-36.pyc",
+    "Lib/site-packages/astor/__pycache__/rtrip.cpython-36.pyc",
+    "Lib/site-packages/astor/__pycache__/source_repr.cpython-36.pyc",
+    "Lib/site-packages/astor/__pycache__/string_repr.cpython-36.pyc",
+    "Lib/site-packages/astor/__pycache__/tree_walk.cpython-36.pyc",
+    "Lib/site-packages/astor/code_gen.py",
+    "Lib/site-packages/astor/codegen.py",
+    "Lib/site-packages/astor/file_util.py",
+    "Lib/site-packages/astor/node_util.py",
+    "Lib/site-packages/astor/op_util.py",
+    "Lib/site-packages/astor/rtrip.py",
+    "Lib/site-packages/astor/source_repr.py",
+    "Lib/site-packages/astor/string_repr.py",
+    "Lib/site-packages/astor/tree_walk.py",
+    ".nonadmin"
+  ],
+  "fn": "astor-0.8.0-py36_0.conda",
+  "legacy_bz2_md5": "181ad7899a771c2f59ed4da4839e860b",
+  "legacy_bz2_size": 46273,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Dabby\\anaconda3\\pkgs\\astor-0.8.0-py36_0",
+    "type": 1
+  },
+  "md5": "dd2b5c9d621b135bba96c2af56e440ca",
+  "name": "astor",
+  "package_tarball_full_path": "C:\\Users\\Dabby\\anaconda3\\pkgs\\astor-0.8.0-py36_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/astor-0.8.0-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "e8175c5f1644401b8100cf8287da4b83bd5cfe91912f13b53369adde14fe763a",
+        "sha256_in_prefix": "e8175c5f1644401b8100cf8287da4b83bd5cfe91912f13b53369adde14fe763a",
+        "size_in_bytes": 4866
+      },
+      {
+        "_path": "Lib/site-packages/astor-0.8.0-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "1df261354f209f36c4d24ae0a0a0e9ada91ae5c946920312beb5ecab82bb9268",
+        "sha256_in_prefix": "1df261354f209f36c4d24ae0a0a0e9ada91ae5c946920312beb5ecab82bb9268",
+        "size_in_bytes": 595
+      },
+      {
+        "_path": "Lib/site-packages/astor-0.8.0-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/astor-0.8.0-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "339c5fadb88bf7e10894e6f58764fcb3a8056d5ddbf406f0808d00473691c9a6",
+        "sha256_in_prefix": "339c5fadb88bf7e10894e6f58764fcb3a8056d5ddbf406f0808d00473691c9a6",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "Lib/site-packages/astor-0.8.0-py3.6.egg-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/astor/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "fe0f9cb83e4850bfc4c0e3d7ab70bff81c469115595ab5a7f0261d339df8cdf1",
+        "sha256_in_prefix": "fe0f9cb83e4850bfc4c0e3d7ab70bff81c469115595ab5a7f0261d339df8cdf1",
+        "size_in_bytes": 2166
+      },
+      {
+        "_path": "Lib/site-packages/astor/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "8df66d883d1bf39ae77887117b0ff099e6b35a16c3ec115d9e855093d6429c42",
+        "sha256_in_prefix": "8df66d883d1bf39ae77887117b0ff099e6b35a16c3ec115d9e855093d6429c42",
+        "size_in_bytes": 2320
+      },
+      {
+        "_path": "Lib/site-packages/astor/__pycache__/code_gen.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "769b91703c8e426f67f054218624326b63d68eb1429c05c3dea1301c3fb2565a",
+        "sha256_in_prefix": "769b91703c8e426f67f054218624326b63d68eb1429c05c3dea1301c3fb2565a",
+        "size_in_bytes": 29454
+      },
+      {
+        "_path": "Lib/site-packages/astor/__pycache__/codegen.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "75b55100be28889f9650d658abb3d2afef36177060ccc165cba1c36f3e9d830f",
+        "sha256_in_prefix": "75b55100be28889f9650d658abb3d2afef36177060ccc165cba1c36f3e9d830f",
+        "size_in_bytes": 318
+      },
+      {
+        "_path": "Lib/site-packages/astor/__pycache__/file_util.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "80767970070c7ca0bb34501cb8698b5d55e866efdf1e46a7677c8622930c325b",
+        "sha256_in_prefix": "80767970070c7ca0bb34501cb8698b5d55e866efdf1e46a7677c8622930c325b",
+        "size_in_bytes": 3416
+      },
+      {
+        "_path": "Lib/site-packages/astor/__pycache__/node_util.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "0c0245118aea779770759a8a4cd65bd598c681063654ce9b0bffef08374ecac1",
+        "sha256_in_prefix": "0c0245118aea779770759a8a4cd65bd598c681063654ce9b0bffef08374ecac1",
+        "size_in_bytes": 6785
+      },
+      {
+        "_path": "Lib/site-packages/astor/__pycache__/op_util.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "edbabaa8eb5ce14eddd2f9c5ad01c2fb626988c00318b5f28db09ccfafee5bdd",
+        "sha256_in_prefix": "edbabaa8eb5ce14eddd2f9c5ad01c2fb626988c00318b5f28db09ccfafee5bdd",
+        "size_in_bytes": 4072
+      },
+      {
+        "_path": "Lib/site-packages/astor/__pycache__/rtrip.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "2d672c3ccabd0dbb5820b27bdf0ecdbd6e947ef42f5ffb63900209935d7b3f61",
+        "sha256_in_prefix": "2d672c3ccabd0dbb5820b27bdf0ecdbd6e947ef42f5ffb63900209935d7b3f61",
+        "size_in_bytes": 4788
+      },
+      {
+        "_path": "Lib/site-packages/astor/__pycache__/source_repr.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "8438d9d4251cbc1832c44dc0947dc3186dbe76478d6610d6b731204ff7fb279b",
+        "sha256_in_prefix": "8438d9d4251cbc1832c44dc0947dc3186dbe76478d6610d6b731204ff7fb279b",
+        "size_in_bytes": 5533
+      },
+      {
+        "_path": "Lib/site-packages/astor/__pycache__/string_repr.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "98722182b709da456288b06baee2b91ad53352bf31b04bae28aa6685e6c3741d",
+        "sha256_in_prefix": "98722182b709da456288b06baee2b91ad53352bf31b04bae28aa6685e6c3741d",
+        "size_in_bytes": 2975
+      },
+      {
+        "_path": "Lib/site-packages/astor/__pycache__/tree_walk.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ac69aee993566052e39bf89aa7d1211a012f2ed45dfa12c1bb5230c8664c4dd",
+        "sha256_in_prefix": "3ac69aee993566052e39bf89aa7d1211a012f2ed45dfa12c1bb5230c8664c4dd",
+        "size_in_bytes": 5306
+      },
+      {
+        "_path": "Lib/site-packages/astor/code_gen.py",
+        "path_type": "hardlink",
+        "sha256": "b4645f006959c569338d3216a42f4656955ca290728ffea1bd75788a0f0b9572",
+        "sha256_in_prefix": "b4645f006959c569338d3216a42f4656955ca290728ffea1bd75788a0f0b9572",
+        "size_in_bytes": 31946
+      },
+      {
+        "_path": "Lib/site-packages/astor/codegen.py",
+        "path_type": "hardlink",
+        "sha256": "953a9d25630ae04009d70c43c365d1f8c2f21c99af6d5d7f43940b8fd9da13f8",
+        "sha256_in_prefix": "953a9d25630ae04009d70c43c365d1f8c2f21c99af6d5d7f43940b8fd9da13f8",
+        "size_in_bytes": 204
+      },
+      {
+        "_path": "Lib/site-packages/astor/file_util.py",
+        "path_type": "hardlink",
+        "sha256": "0444ec29883c5222a864db304648abccf4995a092ee35751cd90bb4f95f7fc5e",
+        "sha256_in_prefix": "0444ec29883c5222a864db304648abccf4995a092ee35751cd90bb4f95f7fc5e",
+        "size_in_bytes": 3268
+      },
+      {
+        "_path": "Lib/site-packages/astor/node_util.py",
+        "path_type": "hardlink",
+        "sha256": "58458c50c49f1ed2f0831e789cc91cd803cb579ef788e3e1a8f6a0e2021b8554",
+        "sha256_in_prefix": "58458c50c49f1ed2f0831e789cc91cd803cb579ef788e3e1a8f6a0e2021b8554",
+        "size_in_bytes": 6542
+      },
+      {
+        "_path": "Lib/site-packages/astor/op_util.py",
+        "path_type": "hardlink",
+        "sha256": "e692aa50126107b8c5c19d5d3e1bee51dca7c4e68216b372c355da17de73e63d",
+        "sha256_in_prefix": "e692aa50126107b8c5c19d5d3e1bee51dca7c4e68216b372c355da17de73e63d",
+        "size_in_bytes": 3157
+      },
+      {
+        "_path": "Lib/site-packages/astor/rtrip.py",
+        "path_type": "hardlink",
+        "sha256": "025bd0bec52e519f33c6f445a5617f16cbf8f8d92c3c1db7aef5644eb92f79ff",
+        "sha256_in_prefix": "025bd0bec52e519f33c6f445a5617f16cbf8f8d92c3c1db7aef5644eb92f79ff",
+        "size_in_bytes": 6741
+      },
+      {
+        "_path": "Lib/site-packages/astor/source_repr.py",
+        "path_type": "hardlink",
+        "sha256": "be7fb0938fa6d9c7cf209214ec57d074fb07234c5302d9e8c8af213b4d056605",
+        "sha256_in_prefix": "be7fb0938fa6d9c7cf209214ec57d074fb07234c5302d9e8c8af213b4d056605",
+        "size_in_bytes": 7356
+      },
+      {
+        "_path": "Lib/site-packages/astor/string_repr.py",
+        "path_type": "hardlink",
+        "sha256": "61e0bf0d578825d3c496a8e0cf384f161790b33fd08cc116fd22ce0c5bc4b080",
+        "sha256_in_prefix": "61e0bf0d578825d3c496a8e0cf384f161790b33fd08cc116fd22ce0c5bc4b080",
+        "size_in_bytes": 2917
+      },
+      {
+        "_path": "Lib/site-packages/astor/tree_walk.py",
+        "path_type": "hardlink",
+        "sha256": "7c96b0e781a04e0e0d4d124b5519765d29df14e1bd19d8ce52523a64284b39bf",
+        "sha256_in_prefix": "7c96b0e781a04e0e0d4d124b5519765d29df14e1bd19d8ce52523a64284b39bf",
+        "size_in_bytes": 6020
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "30171f52c0840c081e1634fccf15056cc464b049cbea753109e9c56004743637",
+  "size": 47733,
+  "subdir": "win-64",
+  "timestamp": 1564694316533,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/astor-0.8.0-py36_0.conda",
+  "version": "0.8.0"
+}

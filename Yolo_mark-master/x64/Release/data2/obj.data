@@ -1,0 +1,10 @@
+classes= 1
+train  = data1/train.txt
+valid  = data1/train.txt
+names = data1/obj.names
+backup = backup/
+
+
+
+조우진C
+이광겸C

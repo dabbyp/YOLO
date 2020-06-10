@@ -1,0 +1,42 @@
+{
+  "build": "gpu_py36h3346743_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "_tflow_select 2.1.0 gpu",
+    "python 3.6.*",
+    "tensorboard >=2.1.0",
+    "tensorflow-base 2.1.0 gpu_py36h55f5790_0",
+    "tensorflow-estimator >=2.1.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dabby\\anaconda3\\pkgs\\tensorflow-2.1.0-gpu_py36h3346743_0",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "tensorflow-2.1.0-gpu_py36h3346743_0.conda",
+  "legacy_bz2_md5": "73369c5e67e01d286ab9fef46a60094a",
+  "legacy_bz2_size": 3942,
+  "license": "Apache 2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\Dabby\\anaconda3\\pkgs\\tensorflow-2.1.0-gpu_py36h3346743_0",
+    "type": 1
+  },
+  "md5": "65ff58c54f17cba7e3b1eb64eaed0522",
+  "name": "tensorflow",
+  "package_tarball_full_path": "C:\\Users\\Dabby\\anaconda3\\pkgs\\tensorflow-2.1.0-gpu_py36h3346743_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ab82043c116f08de4cd094337dd88be214982fb682ad4a9dd505d8127e0590f0",
+  "size": 4210,
+  "subdir": "win-64",
+  "timestamp": 1582124979208,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tensorflow-2.1.0-gpu_py36h3346743_0.conda",
+  "version": "2.1.0"
+}
